@@ -13,7 +13,10 @@ A simple and responsive budget tracking web application that allows users to man
 
 ## 🖼️ Demo
 
-![App Screenshot](screenshot.png) <!-- Optional: Include a screenshot -->
+![App Screenshot]
+![Screenshot 2025-06-10 092016](https://github.com/user-attachments/assets/47d1ca51-eec3-4f5c-ab5e-afb05c2d8075)
+
+
 
 ## 🛠️ Technologies Used
 
