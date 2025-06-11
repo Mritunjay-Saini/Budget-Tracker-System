@@ -25,5 +25,4 @@ A simple and responsive budget tracking web application that allows users to man
 - **JavaScript (Vanilla)**
 - **LocalStorage** (for persistent data)
 
-## 📂 Project Structure
 
